@@ -6,7 +6,7 @@
      background-color: bisque;
      /*flex-direction: row;*/
      flex-wrap: wrap;
-     flex-flow: column;
+    /*flex-flow: column;*/
 
 }
 
