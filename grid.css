@@ -15,12 +15,13 @@
     /*justify-items: start;*/
     /*justify-items: stretch;*/
     /*align-items: start;*/
-    /*justify-items: center;*/
-    /*align-items: center;*/
+    justify-items: center;
+    align-items: center;
     /*justify-content: start;*/
     /*justify-content: end;*/
     /*justify-content: stretch;*/
-    /*justify-content: center;*/
+    justify-content: center;
+    align-content: center;
     /*justify-content: space-evenly;*/
 }
 
